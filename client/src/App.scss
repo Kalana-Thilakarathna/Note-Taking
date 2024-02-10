@@ -1,0 +1,89 @@
+/* App.scss */
+
+.app-wrapper {
+    /* Light theme styles */
+    // Customize Bootstrap components for light theme
+    .btn {
+      background-color: #007bff;
+      color: #fff;
+    }
+  
+    .badge {
+      background-color: #28a745;
+      color: #fff;
+    }
+  
+    // Add more custom styles for other Bootstrap components in light theme
+  }
+  
+  .dark-theme {
+    /* Dark theme styles */
+    background-color: #333;
+    h1{
+        color: #fff;
+    }
+    h5{
+        color: #fff;
+    }
+    h4{
+        color: #fff;
+    }
+
+    .markdown{
+        border-radius: 10px;
+        padding: 20px;
+        color: #0a0a0a;
+        background-color: #fff;
+    }
+
+
+  
+    // Customize Bootstrap components for dark theme
+    .btn-primary {
+      background-color: #ff23cf;
+      border-color: #ff23cf;
+      color: #fff;
+    }
+
+    .btn-primary:hover{
+        background-color: #ff0037;
+        border-color: #ff0037;
+    }
+
+    .btn-outline-secondary{
+        color: #fff;
+
+        background-color: #390147;
+        border-color: #390147;
+    }
+
+    .btn-outline-secondary:hover{
+        color: #363636;
+
+        background-color: #e599f8;
+        border-color: #e599f8;
+    }
+
+    .btn-outline-danger{
+        color: #fff;
+        background-color: #ff0000;
+        border-color: #ff0000;
+    }
+
+    .btn-outline-danger:hover{
+        background-color: #ff7d27;
+        border-color: #ff7d27 ;
+    }
+
+    .badge {
+      background-color: #ff23cf;
+      color: #fff;
+    }
+
+    .modal-title{
+        color: #333;
+    }
+  
+    // Add more custom styles for other Bootstrap components in dark theme
+  }
+  
