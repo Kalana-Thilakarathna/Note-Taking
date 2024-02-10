@@ -4,8 +4,6 @@
 
 This repository contains a feature-rich note-taking app built with TypeScript, React, SCSS, and Bootstrap. Users can create, edit, and manage both Markdown and plain text documents, organized with customizable tags.
 
-![App Screenshot](screenshot.png)
-
 ## Features
 
 * Create, edit, and delete documents with rich text formatting options.
